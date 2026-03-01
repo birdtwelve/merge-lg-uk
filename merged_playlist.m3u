@@ -588,9 +588,9 @@ https://98537e86.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYX
 #EXTINF:-1 tvg-logo="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1781-LG-Logo-PNG-100x100_v4.png",1601 FIFA+
 https://339a32f2.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfRklGQVBsdXNFbmdsaXNoX0hMUw/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1781-LG-Logo-PNG-100x100_v4.png",702 FIFA+
-https://5ce68de5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctbnpfRklGQVBsdXNFbmdsaXNoX0hMUw/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1781-LG-Logo-PNG-100x100_v4.png",702 FIFA+
 https://aed54faf.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYXVfRklGQVBsdXNFbmdsaXNoX0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1781-LG-Logo-PNG-100x100_v4.png",702 FIFA+
+https://5ce68de5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctbnpfRklGQVBsdXNFbmdsaXNoX0hMUw/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1784-LG-Logo-PNG-100x100_v1.png",1532 Flipping Nation
 https://a2d546bb.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfRmxpcHBpbmdOYXRpb25fSExT/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1785-LG-Logo-PNG-100x100_v1.png",1456 Hoarders
@@ -804,9 +804,9 @@ https://2e90a1efd576492a8eaf4364feedf8d5.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-logo="https://img.platform.wurl.dev/channel/1095/lg/4e760c/LG-Logo-PNG-100x100_v1.png",1421 COPS
 https://4e0e236f9a7e42bfb97581a8ab7c42ce.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LG-gb_COPS/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://img.platform.wurl.dev/channel/1095/lg/4e760c/LG-Logo-PNG-100x100_v1.png",892 COPS
-https://9b7794b360044abb8faa1d3301b50b4c.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LG-au_COPS/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.platform.wurl.dev/channel/1095/lg/4e760c/LG-Logo-PNG-100x100_v1.png",892 COPS
 https://b14b5b4fc8f7467da55cd764ac01b126.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LG-nz_COPS/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.platform.wurl.dev/channel/1095/lg/4e760c/LG-Logo-PNG-100x100_v1.png",892 COPS
+https://9b7794b360044abb8faa1d3301b50b4c.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LG-au_COPS/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://img.platform.wurl.dev/channel/1102/lg/129bb3/LG-Logo-PNG-100x100_v1.png",1635 Strongman Champions League
 https://83d03ac27e6e4c58b74c1c162a8ed368.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LG-gb_StrongmanChampionsLeague/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://img.platform.wurl.dev/channel/1102/lg/129bb3/LG-Logo-PNG-100x100_v1.png",710 Strongman Champions League
@@ -896,9 +896,9 @@ https://2d1ef59f0ad34d14888d8abce1b99264.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-logo="https://img.platform.wurl.dev/channel/1606/lg/777e01/LG-Logo-PNG-100x100_v2.png",1845 Arthur
 https://74ab9983.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfUEJTS2lkcy0xX0hMUw/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://img.platform.wurl.dev/channel/1606/lg/777e01/LG-Logo-PNG-100x100_v2.png",511 Arthur
-https://bec9445e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYXVfUEJTS2lkc19ITFM/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.platform.wurl.dev/channel/1606/lg/777e01/LG-Logo-PNG-100x100_v2.png",511 Arthur
 https://2884cc9b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctbnpfUEJTS2lkc19ITFM/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.platform.wurl.dev/channel/1606/lg/777e01/LG-Logo-PNG-100x100_v2.png",511 Arthur
+https://bec9445e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYXVfUEJTS2lkc19ITFM/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://img.platform.wurl.dev/channel/1624/lg/0f1805/LG-Logo-PNG-100x100_v3.png",1115 Icon Film Channel Classics
 https://09e3020901654256a51f2f2e9213765a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/LG-gb_IconFilmChannelClassics/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://img.platform.wurl.dev/channel/1684/lg/c19d5e/LG-Logo-PNG-100x100_v2.png",1587 AIR & SPACE
