@@ -150,9 +150,9 @@ https://2e90a1efd576492a8eaf4364feedf8d5.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-logo="http://img.platform.wurl.dev/channel/1095/lg/4e760c/LG-Logo-PNG-100x100_v1.png",1421 COPS
 https://4e0e236f9a7e42bfb97581a8ab7c42ce.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LG-gb_COPS/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://img.platform.wurl.dev/channel/1095/lg/4e760c/LG-Logo-PNG-100x100_v1.png",892 COPS
-https://9b7794b360044abb8faa1d3301b50b4c.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LG-au_COPS/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://img.platform.wurl.dev/channel/1095/lg/4e760c/LG-Logo-PNG-100x100_v1.png",892 COPS
 https://b14b5b4fc8f7467da55cd764ac01b126.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LG-nz_COPS/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://img.platform.wurl.dev/channel/1095/lg/4e760c/LG-Logo-PNG-100x100_v1.png",892 COPS
+https://9b7794b360044abb8faa1d3301b50b4c.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LG-au_COPS/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://img.platform.wurl.dev/channel/1102/lg/129bb3/LG-Logo-PNG-100x100_v1.png",1635 Strongman Champions League
 https://83d03ac27e6e4c58b74c1c162a8ed368.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LG-gb_StrongmanChampionsLeague/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://img.platform.wurl.dev/channel/1102/lg/129bb3/LG-Logo-PNG-100x100_v1.png",710 Strongman Champions League
